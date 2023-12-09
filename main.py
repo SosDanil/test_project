@@ -1,1 +1,2 @@
-"Initial"
+def passed():
+    pass
