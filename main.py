@@ -1,2 +1,2 @@
 def passed():
-    pass
+    return True
